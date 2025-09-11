@@ -20,8 +20,7 @@ How to use Google Cloud Service
     <li>sudo apt-get install openjdk-17-jdk -y</li>
     <li>java -version</li>
     <li>Spring Boot 프로젝트 빌드 후 jar 파일 업로드</li>
-    <b>백그라운드로 서버 구동</b>
-    <li>sudo nohup java -jar 파일이름.jar &</li>
+    <li>sudo nohup java -jar 파일이름.jar & <b>백그라운드로 서버 구동</b></li>
   </ol>
   
 </details>
