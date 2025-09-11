@@ -5,6 +5,7 @@ How to use Google Cloud Service
 <details>
   <summary>Google Compute Engine</summary>
   <br>
+  <b>클라우드 서버 만들기</b>
   <ol>
     <li>인스턴스 생성</li>
     <li>지역 선택 - 서울</li>
@@ -18,6 +19,9 @@ How to use Google Cloud Service
     <li>sudo apt-get update</li>
     <li>sudo apt-get install openjdk-17-jdk -y</li>
     <li>java -version</li>
+    <li>Spring Boot 프로젝트 빌드 후 jar 파일 업로드</li>
+    <b>백그라운드로 서버 구동</b>
+    <li>sudo nohup java -jar 파일이름.jar &</li>
   </ol>
   
 </details>
