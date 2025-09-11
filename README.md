@@ -13,7 +13,11 @@ How to use Google Cloud Service
     <li>인스턴스 생성하기</li>
   </ol>
   <br>
-
+  <ol>쉘에서 업데이트 및 자바 설치 후 버전 확인
+    <li>sudo apt-get update</li>
+    <li>sudo apt-get install openjdk-17-jdk -y</li>
+    <li>java -version</li>
+  </ol>
   
 </details>
 
