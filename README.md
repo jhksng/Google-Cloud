@@ -6,14 +6,14 @@ How to use Google Cloud Service
   <summary>Google Compute Engine</summary>
   <br>
   <b>클라우드 서버 만들기</b>
-  <ol>머신 구성
+  <ol><b>머신 구성/b>
     <li>인스턴스 생성</li>
     <li>지역 선택 - 서울</li>
     <li>머신 선택 - E2(저렴함)</li>
     <li>머신 유형 선택 - E2-small(테스트용)</li>
     <li>인스턴스 생성하기</li>
   </ol>
-  <ol>네트워킹
+  <ol><b>네트워킹</b>
     <li>HTTP 트래픽 허용</li>
     <li>HTTPS 트래픽 허용</li>
   </ol>
