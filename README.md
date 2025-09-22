@@ -13,6 +13,23 @@ How to use Google Cloud Service
     <li>머신 유형 선택 - E2-small(테스트용)</li>
     <li>인스턴스 생성하기</li>
   </ol>
+  <ol>네트워킹
+    <li>HTTP 트래픽 허용</li>
+    <li>HTTPS 트래픽 허용</li>
+  </ol>
+  
+
+
+
+
+  
+   <ol>네트워크
+    <li>인스턴스 생성</li>
+    <li>지역 선택 - 서울</li>
+    <li>머신 선택 - E2(저렴함)</li>
+    <li>머신 유형 선택 - E2-small(테스트용)</li>
+    <li>인스턴스 생성하기</li>
+  </ol>
   <br>
   <b>쉘에서 업데이트 및 자바 설치 후 버전 확인</b>
   <ol>
