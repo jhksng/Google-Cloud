@@ -58,6 +58,10 @@ sudo systemctl restart mosquitto
 <details>
   <summary>Google Cloud SQL</summary>
   <br>
+
+  엔터프라이즈 - 샌드박스 - 아이디, 비번 설정 - vCpu1개 , 3.75gb 제일싼거 - 용량 10gb 싼거 ssd - 연결 네트워크 이름 설정 및 sql 이랑 연결할 서버가 있는 외부 ip/32 입력 (32는 하나만 허용한다는 의미) - 생성
+
+  
 </details>
 
 <details>
