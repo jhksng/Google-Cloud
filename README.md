@@ -14,7 +14,8 @@ How to use Google Cloud Service
     <li>머신 유형 선택 - E2-small(테스트용)</li>
     <li>인스턴스 생성하기</li>
   </ol>
-  <ol><b>네트워킹</b>
+  <b>네트워킹</b>
+  <ol>
     <li>HTTP 트래픽 허용</li>
     <li>HTTPS 트래픽 허용</li>
   </ol>
