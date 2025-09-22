@@ -19,7 +19,10 @@ How to use Google Cloud Service
     <li>HTTP 트래픽 허용</li>
     <li>HTTPS 트래픽 허용</li>
   </ol>
-  
+
+  mqtt 브로커 사용시
+  VPC 네트워크 - 방화벽 -방화벽 규칙 만들기 - 이름설정 - 네트워크 디폴드 - 우선순위 1000 - 대상? - 소스 ip 범위 외부에서 접속 허용하려면 0.0.0.0/0 - 프로토콜 및 포트 tcp:1883
+
 
 
 
