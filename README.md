@@ -63,6 +63,8 @@ sudo systemctl restart mosquitto
 
   데이터베이스 - db만들기 - 
 
+  플래그 default_time_zone +09:00 시간 맞추기
+
 gcloud sql connect <인스턴스_이름> --user=<사용자_이름>
 use db이름
   
