@@ -22,9 +22,17 @@ How to use Google Cloud Service
 
   mqtt 브로커 사용시
   VPC 네트워크 - 방화벽 -방화벽 규칙 만들기 - 이름설정 - 네트워크 디폴드 - 우선순위 1000 - 대상? - 소스 ip 범위 외부에서 접속 허용하려면 0.0.0.0/0 - 프로토콜 및 포트 tcp:1883
+sudo apt-get install mosquitto mosquitto-clients -y
 
+sudo systemctl status mosquitto
+sudo nano /etc/mosquitto/mosquitto.conf
 
+listener 1883
+allow_anonymous true 
+두줄 추가
 
+sudo systemctl restart mosquitto
+재시작
 
 
   
