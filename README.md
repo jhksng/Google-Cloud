@@ -73,4 +73,6 @@ use db이름
 <details>
   <summary>Google Cloud Storage</summary>
   <br>
+ 클라우드 스토리 - 이름적기 - 단일리전 서울 가장 저렴 - 나머지 그대로 만들기
+  
 </details>
